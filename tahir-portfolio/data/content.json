@@ -1,0 +1,138 @@
+{
+  "site": {
+    "name": "Tahir",
+    "role": "Graphic Designer",
+    "tagline": "I design clothing brand banners, campaign graphics and identities that make people stop scrolling.",
+    "about": [
+      "I'm Tahir, a graphic designer focused on fashion and clothing brands. I turn collections, drops and seasonal sales into bold visuals for web, social and print.",
+      "My work covers promotional banners, lookbook layouts, packaging and brand identity. I like strong type, clean grids and colour that does one job well."
+    ],
+    "email": "hello@tahir.design",
+    "cvLink": "#",
+    "contactText": "I'm open to freelance and full-time design work. Send a short brief and I'll reply quickly.",
+    "socials": [
+      {
+        "label": "Instagram",
+        "url": "https://instagram.com/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://facebook.com/"
+      },
+      {
+        "label": "Behance",
+        "url": "https://behance.net/"
+      },
+      {
+        "label": "LinkedIn",
+        "url": "https://linkedin.com/"
+      }
+    ],
+    "photo": "/assets/headshot-placeholder.svg"
+  },
+  "skills": [
+    "Adobe Photoshop",
+    "Adobe Illustrator",
+    "Figma",
+    "Brand Identity",
+    "Banner & Ad Design",
+    "Social Media Creatives",
+    "Typography",
+    "Packaging",
+    "Lookbook Layout",
+    "Motion Basics"
+  ],
+  "experience": [
+    {
+      "company": "Freelance",
+      "role": "Graphic Designer",
+      "period": "2022 - Present",
+      "points": [
+        "Design campaign banners and social creatives for clothing brands.",
+        "Build brand identities: logos, colour systems, type and guidelines.",
+        "Deliver print-ready and web-ready assets on tight launch schedules."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Streetwear Drop",
+      "category": "Banners",
+      "description": "Hero banner for an oversized tee collection launch.",
+      "tags": [
+        "Photoshop",
+        "Illustrator"
+      ],
+      "image": "/assets/banners/streetwear-drop.svg"
+    },
+    {
+      "title": "Summer Collection",
+      "category": "Banners",
+      "description": "Cyan-first campaign banner for a light summer range.",
+      "tags": [
+        "Illustrator",
+        "Typography"
+      ],
+      "image": "/assets/banners/summer-collection.svg"
+    },
+    {
+      "title": "Hoodie Season",
+      "category": "Social",
+      "description": "Social set promoting heavyweight fleece hoodies.",
+      "tags": [
+        "Figma",
+        "Social"
+      ],
+      "image": "/assets/banners/hoodie-season.svg"
+    },
+    {
+      "title": "Denim Week",
+      "category": "Sale",
+      "description": "Sale banner system with a flexible discount module.",
+      "tags": [
+        "Photoshop",
+        "Layout"
+      ],
+      "image": "/assets/banners/denim-week.svg"
+    },
+    {
+      "title": "Minimal Basics",
+      "category": "Branding",
+      "description": "Restock campaign for an essentials label.",
+      "tags": [
+        "Branding",
+        "Typography"
+      ],
+      "image": "/assets/banners/minimal-basics.svg"
+    },
+    {
+      "title": "Winter Sale",
+      "category": "Sale",
+      "description": "Seasonal sale banner for web and in-store screens.",
+      "tags": [
+        "Illustrator",
+        "Print"
+      ],
+      "image": "/assets/banners/winter-sale.svg"
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Client name",
+      "source": "Fiverr",
+      "text": "Replace this with a real client review from the admin panel."
+    },
+    {
+      "name": "Client name",
+      "source": "Upwork",
+      "text": "Fast, clean work and great communication."
+    }
+  ],
+  "certifications": [
+    {
+      "title": "Graphic Design Specialization",
+      "issuer": "Coursera",
+      "date": "2023"
+    }
+  ]
+}

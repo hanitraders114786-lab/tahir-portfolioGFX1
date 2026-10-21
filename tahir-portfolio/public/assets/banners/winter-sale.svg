@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800">
+<rect width="1200" height="800" fill="#000"/>
+<text x="-20" y="360" font-family="Sora,Arial,sans-serif" font-weight="800" font-size="230" fill="none" stroke="#00E5FF" stroke-opacity=".35" stroke-width="2">WINTER</text>
+<text x="-20" y="620" font-family="Sora,Arial,sans-serif" font-weight="800" font-size="230" fill="none" stroke="#00E5FF" stroke-opacity=".35" stroke-width="2">SALE</text>
+<path d="M340 150 Q600 40 860 150 L990 300 L880 360 L840 320 L840 700 L360 700 L360 320 L320 360 L210 300 Z" fill="#00E5FF"/>
+<path d="M340 150 Q600 40 860 150 L990 300 L880 360 L840 320 L840 700 L360 700 L360 320 L320 360 L210 300 Z" fill="none" stroke="#00E5FF" stroke-width="3" transform="translate(14 14)"/>
+<text x="600" y="460" text-anchor="middle" font-family="Sora,Arial,sans-serif" font-weight="800" font-size="54" fill="#000">WINTER SALE</text>
+<text x="600" y="510" text-anchor="middle" font-family="Montserrat,Arial,sans-serif" font-size="26" fill="#000" fill-opacity=".8">Layers for the cold</text>
+</svg>

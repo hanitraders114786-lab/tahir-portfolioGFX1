@@ -1,0 +1,8 @@
+{
+  "name": "tahir-portfolio",
+  "version": "1.0.0",
+  "description": "Graphic design portfolio with a built-in editable CMS (zero dependencies)",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=16" }
+}

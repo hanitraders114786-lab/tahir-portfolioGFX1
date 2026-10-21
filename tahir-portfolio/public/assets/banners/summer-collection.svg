@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800">
+<rect width="1200" height="800" fill="#00E5FF"/>
+<text x="-20" y="360" font-family="Sora,Arial,sans-serif" font-weight="800" font-size="230" fill="none" stroke="#000" stroke-opacity=".35" stroke-width="2">SUMMER</text>
+<text x="-20" y="620" font-family="Sora,Arial,sans-serif" font-weight="800" font-size="230" fill="none" stroke="#000" stroke-opacity=".35" stroke-width="2">COLLECTION</text>
+<path d="M330 140 L470 100 Q600 170 730 100 L870 140 L980 280 L860 340 L830 300 L830 700 L370 700 L370 300 L340 340 L220 280 Z" fill="#000"/>
+<path d="M330 140 L470 100 Q600 170 730 100 L870 140 L980 280 L860 340 L830 300 L830 700 L370 700 L370 300 L340 340 L220 280 Z" fill="none" stroke="#000" stroke-width="3" transform="translate(14 14)"/>
+<text x="600" y="460" text-anchor="middle" font-family="Sora,Arial,sans-serif" font-weight="800" font-size="54" fill="#00E5FF">SUMMER COLLECTION</text>
+<text x="600" y="510" text-anchor="middle" font-family="Montserrat,Arial,sans-serif" font-size="26" fill="#00E5FF" fill-opacity=".8">Light fits, loud colour</text>
+</svg>
